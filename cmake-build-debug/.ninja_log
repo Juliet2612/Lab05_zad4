@@ -1,0 +1,13 @@
+# ninja log v5
+0	49	7222747444037685	CMakeFiles/Lab05_zad4.dir/temp.c.obj	6db8a17a1b9e45fd
+4	648	7222747450019506	CMakeFiles/Lab05_zad4.dir/main.c.obj	cd82d9fbbf9180f
+2	660	7222748966297174	CMakeFiles/Lab05_zad4.dir/main.c.obj	cd82d9fbbf9180f
+1	47	7222750969828125	CMakeFiles/Lab05_zad4.dir/temp.c.obj	6db8a17a1b9e45fd
+5	645	7222750975814978	CMakeFiles/Lab05_zad4.dir/main.c.obj	cd82d9fbbf9180f
+645	706	7222750976390710	Lab05_zad4.exe	77c6abae57b7da
+2	623	7222751220128772	CMakeFiles/Lab05_zad4.dir/main.c.obj	cd82d9fbbf9180f
+624	684	7222751220693385	Lab05_zad4.exe	77c6abae57b7da
+1	627	7222751375980888	CMakeFiles/Lab05_zad4.dir/main.c.obj	cd82d9fbbf9180f
+632	694	7222751376607099	Lab05_zad4.exe	77c6abae57b7da
+1	43	7222752220824976	CMakeFiles/Lab05_zad4.dir/temp.c.obj	6db8a17a1b9e45fd
+43	104	7222752221388450	Lab05_zad4.exe	77c6abae57b7da
